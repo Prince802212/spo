@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "MusicApp",
+    "description": "MusicApp: UI Clone with React Native & Expo",
+    "scheme": "musicappclone",
+    "slug": "musicappclone",
+    "privacy": "public",
+    "version": "0.5.1",
+    "platforms": ["android", "ios", "web"],
+    "githubUrl": "https://github.com/yourusername/musicappclone",
+    "orientation": "portrait",
+    "primaryColor": "#121212",
+    "icon": "assets/icon.png",
+    "splash": {
+      "backgroundColor": "#121212",
+      "image": "assets/splash.png",
+      "resizeMode": "contain"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "android": {
+      "versionCode": 51
+    },
+    "ios": {
+      "buildNumber": "0.5.1",
+      "supportsTablet": true
+    }
+  }
+}
